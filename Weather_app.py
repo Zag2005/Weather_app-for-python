@@ -4,7 +4,7 @@ import requests
 BASE_URL = "http://api.openweathermap.org/data/2.5/weather?"
 API_KEY = "Enter your api key" 
  # go to " https://openweathermap.org/ " sign up and get your api key (must wait atleast 2 hours to get your account fully registerd in oder to use the api key)
-CITY = "Galle"
+CITY = "London" #any city you desire 
 
 
 def kelvin_to_celsius_fahrenheit(Kelvin):
